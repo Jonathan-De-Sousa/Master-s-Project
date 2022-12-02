@@ -1,4 +1,4 @@
-# Master-s-Project
+# Masters-Project
 Financial Modelling Using Machine Learning - Deep Neural Network Architecture Effects on Profitability
 
 !NOTE!: Work on this project cannot be shown, as this project was subject to a legally-binding 
